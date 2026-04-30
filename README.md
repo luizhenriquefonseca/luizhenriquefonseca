@@ -9,7 +9,7 @@
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
 💡 &nbsp;Sou um estudante de engenharia de software e um apaixonado por tecnologia, atualmente estou me aprofundando na área de programação. \
-💻 &nbsp;Atualmente estudo HTML, CSS e JavaScript e python, e estou sempre aprimorando minhas habilidades no desenvolvimento web.\
+💻 &nbsp;No momento estudo HTML, CSS e JavaScript e python, e estou sempre aprimorando minhas habilidades no desenvolvimento web.\
 🎓&nbsp;Estou na faculdade e curso engenharia de software na UDF.\
 💬 &nbsp;No meu tempo livre, gosto de praticar atividade física, assistir filmes de ação e ficção científica e explorar novas tecnologias!\
 ✉️ &nbsp;Você pode me enviar um e-mail para luiz.fonseca.brasilia@gmail.com. Irei responder o mais rápido possível!\
