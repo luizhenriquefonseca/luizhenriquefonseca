@@ -8,7 +8,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;Sobre mim
 
-💡 &nbsp;Sou um estudante de engenharia de software e um apaixonado por tecnologia, no momento estou me aprofundando na área de programação. \
+💡 &nbsp;Sou um estudante de engenharia de software, um apaixonado por tecnologia e no momento estou me aprofundando na área de programação. \
 💻 &nbsp;Atualmente estudo HTML, CSS e JavaScript e python, e estou sempre aprimorando minhas habilidades no desenvolvimento web.\
 🎓&nbsp;Estou no 1º semestre da faculdade e curso engenharia de software na UDF.\
 💬 &nbsp;No meu tempo livre, gosto de praticar atividade física, assistir filmes de ação e ficção científica e explorar novas tecnologias!\
