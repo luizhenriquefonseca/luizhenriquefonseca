@@ -7,4 +7,9 @@ Meu foco atual está no fortalecimento da lógica de programação, fundamentos 
 - 🔭 **Atualmente trabalhando em:** Qualificação profissional em Desenvolvimento de Sistemas (G4F / SENAC) e projetos práticos de desenvolvimento web.
 - 🌱 **Aprimorando conhecimentos em:** HTML5, CSS3, JavaScript, Python, Git e arquitetura de software.
 - ⚡ **Interesses:** Tecnologia aplicada, resolução de problemas, atividades físicas e ficção científica.
-- 📫 **Contato:** luiz.fonseca.brasilia@gmail.com
+### 📫 Como me encontrar
+
+- **LinkedIn:** https://www.linkedin.com/in/luiz-henrique-fonseca-dev/
+- **E-mail:** luiz.fonseca.brasilia@gmail.com
+
+---
